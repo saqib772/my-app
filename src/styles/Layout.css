@@ -1,0 +1,24 @@
+/* Layout.css */
+
+/* Layout styles */
+.layout {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+  
+  header {
+    /* Styles for header */
+    color: blue;
+  }
+  
+  main {
+    flex: 1;
+    /* Styles for main content */
+  }
+  
+  footer {
+    /* Styles for footer */
+    color: blueviolet;
+  }
+  
