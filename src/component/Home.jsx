@@ -93,10 +93,10 @@ const Home = () => {
                       href="">Astronomy</a>
                     <a class="text-white" href="">OCT 25, 2023</a>
                   </div>
-                  <a class="h2 m-0 text-white text-uppercase font-weight-bold" href="">'Lightning' on Venus
+                  <a class="h2 m-0 text-white text-uppercase font-weight-bold" href="">'Lightning on Venus
                     may not be
                     lightning at all, Parker Solar Probe finds
-                    While studying the sun</a>
+                    While studying the sun for first Time</a>
                 </div>
               </div>
               <div class="position-relative overflow-hidden" style={{ height: "500px" }}>
